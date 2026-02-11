@@ -1,7 +1,7 @@
 {
   "name": "skills-repo",
   "version": "0.1.0",
-  "description": "A collection of practical skills for Claude Code — starting with objective code review feedback evaluation, with more skills to come.",
+  "description": "A collection of practical skills for Claude Code — critical feedback evaluation (비판적수용) and backend-to-frontend integration document generation.",
   "author": {
     "name": "jhleee"
   }

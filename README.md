@@ -32,12 +32,10 @@ claude plugin add -- jhleee/skills-repo
 
 ## Usage
 
-```
-/critical-acceptance   # 피드백 비판적 수용 (Accept/Reject/Negotiate)
-/backend-handoff   # Generate frontend integration doc from backend code
-```
+스킬은 Claude가 관련 컨텍스트를 감지하면 자동으로 트리거됩니다.
 
-Skills also trigger automatically when Claude detects matching context.
+- 코드 리뷰 피드백을 평가하는 상황 → **critical-acceptance** 스킬 자동 로드
+- 백엔드 코드를 프론트엔드용으로 문서화하는 상황 → **backend-handoff** 스킬 자동 로드
 
 ## Author
 

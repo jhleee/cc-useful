@@ -3,4 +3,4 @@ Thumbs.db
 *.swp
 *.swo
 *~
-.claude/*.local.md
+.claude/*.local.*

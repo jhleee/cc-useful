@@ -1,6 +1,12 @@
 ---
 name: critical-acceptance
-description: Critically accept user feedback — don't blindly follow or reject, evaluate against objective principles before acting
+description: >
+  This skill should be used when the user asks to "evaluate this feedback",
+  "should I accept this review comment", "is this code review valid",
+  "review this PR feedback", "assess code review suggestions",
+  or when code review feedback needs to be critically evaluated against
+  objective principles before accepting or rejecting. Not for writing
+  code reviews — only for evaluating received feedback.
 ---
 
 # Critical Acceptance Skill (비판적수용)
