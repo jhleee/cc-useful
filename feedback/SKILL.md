@@ -1,11 +1,11 @@
 ---
-name: feedback
-description: Critically evaluate code review feedback with objective principles
+name: critical-acceptance
+description: Critically accept user feedback — don't blindly follow or reject, evaluate against objective principles before acting
 ---
 
-# Feedback Evaluation Skill
+# Critical Acceptance Skill (비판적수용)
 
-Critically evaluate code review feedback based on **objective principles** rather than subjective opinions.
+Critically accept user feedback based on **objective principles** rather than blindly following or rejecting it.
 
 ## Core Principles
 
