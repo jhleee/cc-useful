@@ -1,4 +1,4 @@
-# skills-repo
+# cc-useful
 
 A collection of practical skills for Claude Code.
 
@@ -27,7 +27,7 @@ Generate structured integration documents from backend code for frontend AI agen
 ## Installation
 
 ```bash
-claude plugin add -- jhleee/skills-repo
+claude plugin add -- jhleee/cc-useful
 ```
 
 ## Usage

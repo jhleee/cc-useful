@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "jhleee-skills",
+  "name": "cc-useful",
   "description": "Practical skills for Claude Code — critical feedback evaluation and backend-to-frontend integration document generation",
   "owner": {
     "name": "jhleee"
@@ -11,7 +11,7 @@
   },
   "plugins": [
     {
-      "name": "skills-repo",
+      "name": "cc-useful",
       "description": "A collection of practical skills for Claude Code — critical feedback evaluation (비판적수용) and backend-to-frontend integration document generation.",
       "version": "0.1.0",
       "author": {
@@ -19,10 +19,10 @@
       },
       "source": {
         "source": "github",
-        "repo": "jhleee/skills-repo"
+        "repo": "jhleee/cc-useful"
       },
       "category": "productivity",
-      "homepage": "https://github.com/jhleee/skills-repo"
+      "homepage": "https://github.com/jhleee/cc-useful"
     }
   ]
 }
